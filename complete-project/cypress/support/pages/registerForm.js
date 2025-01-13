@@ -22,4 +22,3 @@ class RegisterForm {
 }
 
 export default RegisterForm;
-//module.exports(RegisterForm);
